@@ -1,0 +1,12 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+pillow
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+jose
+python-multipart
+requests
